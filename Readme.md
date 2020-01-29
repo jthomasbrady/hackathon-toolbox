@@ -2,7 +2,7 @@
 
 This repository is meant to get you up and running with hackathons.
 
-We will be looking at your desired utcomes and vision and **work backwards** toward your tooling
+We will be looking at your desired outcomes and vision and **work backwards** toward your tooling
 
 ### The steps of a hackathon ###
 
